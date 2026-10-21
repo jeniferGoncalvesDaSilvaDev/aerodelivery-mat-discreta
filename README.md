@@ -1,6 +1,6 @@
 ---
 
-# AeroDelivery: Tapete de Entrega Aérea Discreta (`aerodelivery-mat-discreta`)
+# AeroDelivery: Entrega por Drone
 
 Repositório oficial do projeto **AeroDelivery**, desenvolvido como parte das atividades avaliativas da disciplina de **Matemática Discreta** do curso de Engenharia de Software com Ênfase em Design e Arquitetura da [Jala University].
 
